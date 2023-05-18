@@ -16,18 +16,19 @@ Solo una volta che il milestone 1 sarà completo e funzionante allora realizzere
 3 - Chiedere all'utente la sua età
 4 - Creare la variabile
 5 - Creare variabile per il calcolo del prezzo base (0.21 * km)
-6 - Creare condizione SE per applicare sconto del 20% ai minorenni
-7 - Creare condizione ALTRIMENTI SE per applicare sconto del 40% agli over 65
-8 - Creare due input e un bottone
-9 - Mostrare in console il prezzo finale
-10 - Creare il form da visualizzare in pagina per l'utente
-    10.1 - Creare container-fluid
-    10.2 - Creare 1 riga 
-    10.2 Creare 4 colonne
-    10.3 Creare due input 
-    10.4 Crare una select
-    10.5 Creare due bottoni
-    10.6 Creare biglietto 
-    10.7 Creare tabella
-11 - Mostrare prezzo finale    
-    11.1 - Inserire toFixed per mostrare due decimali nel prezzo finale
+6 - Creare variabile per il prezzo finale
+7 - Creare condizione SE per applicare sconto del 20% ai minorenni
+8 - Creare condizione ALTRIMENTI SE per applicare sconto del 40% agli over 65
+9 - Creare due input e un bottone
+10 - Mostrare in console il prezzo finale
+11 - Creare il form da visualizzare in pagina per l'utente
+    11.1 - Creare container-fluid
+    11.2 - Creare 1 riga 
+    11.2 Creare 4 colonne
+    11.3 Creare due input 
+    11.4 Crare una select
+    11.5 Creare due bottoni
+    11.6 Creare biglietto 
+    11.7 Creare tabella
+12 - Mostrare prezzo finale    
+    12.1 - Inserire toFixed per mostrare due decimali nel prezzo finale
