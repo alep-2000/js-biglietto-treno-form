@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: brown;
+}
+
+.content{
+    background-color: white;
+    margin: 100px auto 50px;
+}
+
+button{
+    margin: 50px 10px;
+}
+
+
+
+
+
